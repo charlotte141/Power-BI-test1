@@ -1,6 +1,6 @@
 # Power-BI-test1
--
 
-Hello,
+✋ Hello,
 
-Apresento este mini Projecto onde dados são representados por graficos gerados.
+Foi-me proposto este desafio.
+NA qual em apresento este mini Projecto onde dados são representados em forma de graficos gerados apartir deste mesmos dados.
